@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/websiteofjaime/static/css/main.5cc02a62.css",
-    "main.js": "/websiteofjaime/static/js/main.e71606f1.js",
+    "main.js": "/websiteofjaime/static/js/main.07ee1cf6.js",
     "static/media/people.png": "/websiteofjaime/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/websiteofjaime/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/logo.svg": "/websiteofjaime/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/websiteofjaime/index.html",
     "main.5cc02a62.css.map": "/websiteofjaime/static/css/main.5cc02a62.css.map",
-    "main.e71606f1.js.map": "/websiteofjaime/static/js/main.e71606f1.js.map"
+    "main.07ee1cf6.js.map": "/websiteofjaime/static/js/main.07ee1cf6.js.map"
   },
   "entrypoints": [
     "static/css/main.5cc02a62.css",
-    "static/js/main.e71606f1.js"
+    "static/js/main.07ee1cf6.js"
   ]
 }
